@@ -41,13 +41,17 @@ AI-900は、AIやクラウドの基礎を学ぶ入口として最適であり、
 
 ## 0-2 AI-900 の概要
 
-### AI-900（Azure AI Fundamentals）とは
+この節では、AI-900試験の目的・対象者・範囲・学習方法について説明します。
+
+### 試験の目的
 
 AI-900は、Microsoft Azureにおける人工知能（AI）とMachine Learningの基礎概念を理解し、それらをAzure上で利用する基本的な知識を証明する認定資格です。AIソリューションの構築や実装の経験がない方でも、基本的な知識があれば取得できる入門レベルの資格として位置づけられています。
 
+この認定資格は、AI技術の基礎知識を体系的に学習し、Azure上でのAIサービスの活用方法を理解することを目的としています。また、より高度なAI関連の認定資格（AI-102など）や、データサイエンス関連の認定資格（DP-100など）への足がかりとなります。
+
 Microsoft公式の認定資格ページ（[Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/certifications/azure-ai-fundamentals/)）では、試験の最新情報や詳細な学習リソースを確認することができます。
 
-### 対象者
+### 試験の対象者
 
 以下のような方々がAI-900の主な対象者です：
 
@@ -57,7 +61,7 @@ Microsoft公式の認定資格ページ（[Azure AI Fundamentals](https://learn.
 - AIやクラウドを活用したビジネスソリューションを検討している意思決定者
 - より高度なMicrosoft AI認定資格の取得を目指している方
 
-### 試験内容
+### 試験の範囲
 
 AI-900試験では、以下の知識領域（スキル測定領域）が評価されます：
 
@@ -76,9 +80,9 @@ AI-900試験では、以下の知識領域（スキル測定領域）が評価�
    - Azure Cognitive Servicesの各種サービス
    - Azure Applied AI Services
 
-Microsoft公式の[試験トピック詳細](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/AI-900)では、各スキル測定領域について具体的に学ぶべき内容が詳細に記載されています。試験準備には、これらのトピックを網羅的に学習することが重要です。
+Microsoft公式の[試験トピック詳細](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/AI-900)では、各スキル測定領域について具体的に学ぶべき内容が詳細に記載されています。
 
-### 試験形式
+#### 試験形式
 
 - 試験時間：約60分
 - 問題数：約40-60問（多肢選択式、ドラッグアンドドロップなど）
@@ -87,13 +91,33 @@ Microsoft公式の[試験トピック詳細](https://learn.microsoft.com/ja-jp/c
 - 試験言語：英語、日本語を含む複数言語対応
 - 試験形式：オンラインまたはテストセンターでの受験が可能
 
-### 有効期限と更新
-
 AI-900認定資格は取得後も永続的に有効です。ただし、Azure上のAI技術は急速に進化しているため、知識を定期的に更新することをお勧めします。
 
-### 他の認定資格との関係
+### 学習方法
 
-AI-900は、より高度なAI関連の認定資格（AI-102など）や、データサイエンス関連の認定資格（DP-100など）への足がかりとなります。また、クラウドの基礎を学ぶAZ-900（Azure Fundamentals）と併せて取得することで、クラウド上のAIサービスについての総合的な基礎知識を証明することができます。
+AI-900試験に効果的に合格するための学習方法を以下に示します：
+
+#### 基本的な学習アプローチ
+
+1. **段階的に学習する**：
+   - 基礎から応用へと順番に学習を進めてください
+   - 各章の冒頭にある概要を読み、学習目標を理解してから本文に進みましょう
+
+2. **実践的に学ぶ**：
+   - 本書で解説されている概念やサービスは、実際にAzureポータルで操作することで理解が深まります
+   - 無料のAzureアカウントを作成し、説明されているサービスを実際に試してみましょう
+
+3. **知識の定着を確認する**：
+   - 各章末の確認問題で学習内容の理解度をチェックしてください
+   - 不明点があれば、該当する章に戻って復習しましょう
+
+#### 推奨学習リソース
+
+- **Microsoft Learn**：Microsoftが提供する無料の学習プラットフォームで、[AI-900向けの学習パス](https://learn.microsoft.com/ja-jp/training/paths/get-started-with-artificial-intelligence-on-azure/)を活用しましょう
+- **試験対策ガイド**：Microsoftの[試験準備ガイド](https://learn.microsoft.com/ja-jp/certifications/resources/study-guides/AI-900)を参照して、試験範囲を確認しましょう
+- **公式練習問題**：Microsoft Learnの[公式練習テスト](https://learn.microsoft.com/ja-jp/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)を活用して、実際の試験形式に慣れておきましょう
+
+試験準備には、これらのトピックを網羅的に学習することが重要です。
 
 ## 0-3 本書の活用方法
 
